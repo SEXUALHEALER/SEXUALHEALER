@@ -8,10 +8,5 @@
     <div style="text-align: left;">
       <img src="./marcel.svg" width="220" alt="I'm Marcel" />
     </div>
-    <!-- Правый нижний (уменьшен размер) -->
-    <div style="text-align: right; margin-top: 40px;">
-      <img src="./anxiety.svg" width="180" alt="Busy with anxiety" />
-    </div>
-  </div>
-</div>
+  
 

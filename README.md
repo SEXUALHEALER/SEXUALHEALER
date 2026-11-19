@@ -4,5 +4,5 @@
   <img src="./header.svg" width="100%" alt="I'm Marcel. Busy with anxiety" />
 </div>
 <div align="center">
-  <img src="./art.png" width="600" alt="Artwork" />
+  <img src="./art.jpg" width="600" alt="Artwork" />
 </div>

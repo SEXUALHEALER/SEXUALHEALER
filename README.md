@@ -31,7 +31,7 @@
   </table>
   <!-- 3. Цитата снизу по центру -->
   <div style="margin-top: 5px; margin-bottom: 20px;">
-    <img src="./quote.svg?v=2" width="100%" alt="Quote" />
+    <img src="./quote.svg?v=9" width="100%" alt="Quote" />
   </div>
 </div>
 <div align="center">

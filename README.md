@@ -33,7 +33,6 @@
   <div style="margin-top: 5px; margin-bottom: 20px;">
     <img src="./quote.svg?v=9" width="100%" alt="Quote" />
   </div>
-</div>
 <div align="center">
   <!-- Разделитель -->
   <hr style="border: 0; border-top: 1px solid #333; margin: 30px auto; max-width: 800px;">

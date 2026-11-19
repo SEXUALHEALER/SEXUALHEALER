@@ -8,5 +8,9 @@
     <div style="text-align: left;">
       <img src="./marcel.svg" width="220" alt="I'm Marcel" />
     </div>
-  
+  <!-- 3. Цитата снизу по центру -->
+  <div style="margin-top: 30px; margin-bottom: 20px;">
+    <img src="./quote.svg" width="100%" alt="Quote" />
+  </div>
+</div>
 

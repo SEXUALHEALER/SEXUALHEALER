@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" width="100%" height="80">
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Zeger';
+        /* Сюда нужно вставить base64-код шрифта Zeger */
+        src: url('data:font/woff2;base64,ВАШ_BASE64_КОД_ШРИФТА') format('woff2');
+      }
+      .zeger-text {
+        font-family: 'Zeger', cursive;
+        font-style: italic; /* Курсив */
+        font-size: 28px;
+        font-weight: normal;
+      }
+    </style>
+    <linearGradient id="gQuote" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a9d3f2"/>
+    </linearGradient>
+    <filter id="glowQuote">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <text x="50%" y="50" text-anchor="middle" class="zeger-text" fill="url(#gQuote)" filter="url(#glowQuote)">
+    «Всё заканчивается на раскате грома...»
+  </text>
+</svg>

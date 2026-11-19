@@ -43,4 +43,33 @@
   </table>
 
 </div>
+<!-- ТЕПЕРЬ КНОПКИ ИДУТ СРАЗУ ПОД "I'm Marcel" -->
+  <table width="100%" style="border: none; max-width: 800px; margin: 0 auto;">
+    <tr>
+      <td align="left" style="border: none;">
+        <a href="https://teletype.in/@marcelsoul/dTTwdY94i_u" target="_blank">
+          <img src="https://img.shields.io/badge/DNI-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="DNI" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://t.me/sundaycoquette" target="_blank">
+          <img src="https://img.shields.io/badge/INFO-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="INFO" />
+        </a>
+      </td>
+      <td align="right" style="border: none;">
+        <a href="https://t.me/addmecross" target="_blank">
+          <img src="https://img.shields.io/badge/DM-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="DM" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Цитата -->
+  <div style="margin-top: 10px; margin-bottom: 30px;">
+    <img src="./quote.svg?v=3" width="100%" alt="Quote" />
+  </div>
+
+</div>
 ЛИГНЕ СПАСИ МЕНЯ УПАСИ 

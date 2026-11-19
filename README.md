@@ -18,25 +18,25 @@
   <!-- Разделитель -->
   <hr style="border: 0; border-top: 1px solid #333; margin: 30px auto; max-width: 800px;">
 
-  <!-- Кнопки в таблице (гарантированно разъедутся по краям) -->
+  <!-- Кнопки (теперь с градиентом и черным фоном) -->
   <table width="100%" style="border: none; max-width: 700px; margin: 0 auto;">
     <tr>
       <!-- DNI (слева) -->
       <td align="left" style="border: none; width: 33%;">
         <a href="https://teletype.in/@marcelsoul/dTTwdY94i_u" target="_blank">
-          <img src="https://raw.githubusercontent.com/SEXUALHEALER/SEXUALHEALER/main/dni.svg" width="120" alt="DNI" />
+          <img src="https://img.shields.io/badge/DNI-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="DNI" />
         </a>
       </td>
       <!-- INFO (по центру) -->
       <td align="center" style="border: none; width: 33%;">
         <a href="https://t.me/sundaycoquette" target="_blank">
-          <img src="https://raw.githubusercontent.com/SEXUALHEALER/SEXUALHEALER/main/info.svg" width="120" alt="INFO" />
+          <img src="https://img.shields.io/badge/INFO-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="INFO" />
         </a>
       </td>
       <!-- DM (справа) -->
       <td align="right" style="border: none; width: 33%;">
         <a href="https://t.me/addmecross" target="_blank">
-          <img src="https://raw.githubusercontent.com/SEXUALHEALER/SEXUALHEALER/main/dm.svg" width="120" alt="DM" />
+          <img src="https://img.shields.io/badge/DM-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="DM" />
         </a>
       </td>
     </tr>

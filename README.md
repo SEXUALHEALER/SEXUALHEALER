@@ -8,7 +8,6 @@
    <div style="text-align: left; margin-top: 10px;">
     <img src="./marcel.svg" width="200" alt="I'm Marcel" />
   </div>
-  <br>
   <!-- ТЕПЕРЬ КНОПКИ ИДУТ СРАЗУ ПОД "I'm Marcel" -->
   <table width="100%" style="border: none; max-width: 800px; margin: 0 auto;">
     <tr>

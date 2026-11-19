@@ -5,7 +5,7 @@
 <!-- Контейнер с текстом по углам -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
       <!-- I'm Marcel (одиночный, без правого угла, как на скрине) -->
-  <div style="margin-top: 10px;">
+   <div style="text-align: left; margin-top: 10px;">
     <img src="./marcel.svg" width="200" alt="I'm Marcel" />
   </div>
   <br>

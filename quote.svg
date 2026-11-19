@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160">
   <defs>
     <style>
       .hand { font-family: 'Segoe Script', 'Brush Script MT', cursive; }
@@ -13,13 +13,13 @@
     </filter>
   </defs>
   
-  <!-- Первая строка цитаты (чуть крупнее) -->
-  <text x="50%" y="60" text-anchor="middle" class="hand" font-size="28" font-weight="600" fill="url(#g3)" filter="url(#glow3)">
+  <!-- Первая строка (характеристики) -->
+  <text x="50%" y="70" text-anchor="middle" class="hand" font-size="24" font-weight="600" fill="url(#g3)" filter="url(#glow3)">
     "He/him/they. 16 y.o E/ISTP VFLE SLE 8w9 sp8sp4sx6 chol-mel rluei"
   </text>
   
-  <!-- Вторая строка (чуть ниже и меньше) -->
-  <text x="50%" y="110" text-anchor="middle" class="hand" font-size="22" font-weight="500" fill="url(#g3)" opacity="0.8">
+  <!-- Вторая строка (подпись) -->
+  <text x="50%" y="120" text-anchor="middle" class="hand" font-size="20" font-weight="500" fill="url(#g3)" opacity="0.8">
     always afk. hbd 12.08
   </text>
 </svg>

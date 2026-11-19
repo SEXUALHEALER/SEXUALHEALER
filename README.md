@@ -5,8 +5,9 @@
 <!-- Контейнер с текстом по углам -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
       <!-- I'm Marcel (одиночный, без правого угла, как на скрине) -->
-   <div style="text-align: left; margin-top: 10px;">
-    <img src="./marcel.svg" width="200" alt="I'm Marcel" />
+     <!-- I'm Marcel (теперь большой) -->
+  <div style="margin-top: 10px;">
+    <img src="./marcel.svg?v=6" width="500" alt="I'm Marcel" />
   </div>
   <!-- ТЕПЕРЬ КНОПКИ ИДУТ СРАЗУ ПОД "I'm Marcel" -->
   <table width="100%" style="border: none; max-width: 800px; margin: 0 auto;">

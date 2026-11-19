@@ -7,7 +7,7 @@
       <!-- I'm Marcel (одиночный, без правого угла, как на скрине) -->
      <!-- I'm Marcel (теперь большой) -->
   <div style="margin-top: 10px;">
-    <img src="./marcel.svg?v=6" width="500" alt="I'm Marcel" />
+    <img src="./marcel.svg?v=6" width="200" alt="I'm Marcel" />
   </div>
   <!-- ТЕПЕРЬ КНОПКИ ИДУТ СРАЗУ ПОД "I'm Marcel" -->
   <table width="100%" style="border: none; max-width: 800px; margin: 0 auto;">

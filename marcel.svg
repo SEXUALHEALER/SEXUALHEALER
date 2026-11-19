@@ -1,11 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="100%" height="100%">
   <defs>
+    <!-- Тот самый градиент: белый -> нежно-голубой -->
     <linearGradient id="g1" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#ffffff"/>
       <stop offset="100%" stop-color="#a9d3f2"/>
     </linearGradient>
+    <!-- Легкое свечение -->
+    <filter id="glow1">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
-  <text x="50%" y="70" text-anchor="middle" font-family="'Segoe Script', 'Brush Script MT', cursive" font-size="46" font-weight="700" fill="url(#g1)">
+  
+  <!-- text-anchor="middle" ставит текст РОВНО по центру -->
+  <text x="50%" y="65" text-anchor="middle" font-family="'Segoe Script', 'Brush Script MT', cursive" font-size="46" font-weight="700" fill="url(#g1)" filter="url(#glow1)">
     I'm Marcel.
   </text>
 </svg>

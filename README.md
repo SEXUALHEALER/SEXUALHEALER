@@ -1,6 +1,5 @@
-## Hi there 👋
-<img width="1280" height="1205" alt="image" src="https://github.com/user-attachments/assets/36d9a14d-b6a3-41d6-b67f-768503113022" />
-" />
+## ЛИГНЕ СПАСИ МЕНЯ УПАСИ 👋
+<img width="1280" height="842" alt="image" src="https://github.com/user-attachments/assets/2a40e85d-2b56-4223-b356-6344e6a74f96" />
 <!--
 **SEXUALHEALER/SEXUALHEALER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

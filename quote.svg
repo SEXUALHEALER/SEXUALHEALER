@@ -13,10 +13,12 @@
     </filter>
   </defs>
   
+  <!-- Обновленный текст с ESTJ, LSE и 1w2 -->
   <text x="50%" y="25" text-anchor="middle" class="hand" font-size="24" font-weight="600" fill="url(#g3)" filter="url(#glow3)">
-    He/him/they. 16 y.o E/ISTP VFLE SLE 8w9 sp8sp4sx6 chol-mel rluei
+    He/him/they. 16 y.o ESTJ VFLE LSE 1w2 sosp1sx2sxsp6 chol-mel rluei
   </text>
   
+  <!-- Вторая строка осталась без изменений -->
   <text x="50%" y="60" text-anchor="middle" class="hand" font-size="20" font-weight="500" fill="url(#g3)" opacity="0.8">
     always afk. hbd 12.08
   </text>

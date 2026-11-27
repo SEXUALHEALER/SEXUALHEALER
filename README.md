@@ -25,7 +25,7 @@
         </a>
       </td>
       <td align="right" style="border: none;">
-        <a href="https://t.me/addmecross" target="_blank">
+        <a href="https://t.me/sundayamour" target="_blank">
           <img src="https://img.shields.io/badge/DM-black?style=for-the-badge&logo=&logoColor=white&labelColor=0a0a0a&color=a9d3f2" alt="DM" />
         </a>
       </td>
